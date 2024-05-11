@@ -1,7 +1,7 @@
 # Página de Github de Rosario
 
-![Imagen de Portada](recursos/malaga.jpg)
-recursos/malaga.jpg
+![Imagen de Portada](recursos/sistemasinformaticos.jpg)
+
 
 ## Descripción
 
