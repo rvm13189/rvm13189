@@ -1,4 +1,4 @@
-# Página de Github de Rosario
+# Página de Github
 
 ![Imagen de Portada](recursos/sistemasinformaticos.jpg)
 
